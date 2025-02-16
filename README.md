@@ -1,4 +1,5 @@
 # ⚡ DE3NAKE TWEAKER
+![image](https://github.com/user-attachments/assets/c7da054b-8e1e-4b13-bdbe-3be00be7a73b)
 
 ![Windows](https://img.shields.io/badge/Windows-Optimization-blue?style=for-the-badge&logo=windows)  
 ![GitHub stars](https://img.shields.io/github/stars/MiHaTsKiYi13/de3nake-tweaker?style=for-the-badge)  
