@@ -1,8 +1,8 @@
 # ⚡ DE3NAKE TWEAKER
 
 ![Windows](https://img.shields.io/badge/Windows-Optimization-blue?style=for-the-badge&logo=windows)  
-![GitHub stars](https://img.shields.io/github/stars/MiHaTsKiYi13/TaskMGR?style=for-the-badge)  
-![GitHub issues](https://img.shields.io/github/issues/MiHaTsKiYi13/TaskMGR?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/MiHaTsKiYi13/de3nake-tweaker?style=for-the-badge)  
+![GitHub issues](https://img.shields.io/github/issues/MiHaTsKiYi13/de3nake-tweaker?style=for-the-badge)
 
 **DE3NAKE TWEAKER** — это мощный инструмент для глубокой и безопасной оптимизации Windows, предназначенный для повышения производительности системы, минимизации задержек и освобождения ресурсов. С помощью этого твикера вы сможете значительно улучшить отклик вашей операционной системы, повысить стабильность и ускорить загрузку как для игр, так и для профессиональной работы.
 
